@@ -150,7 +150,9 @@ Linux x86 Shellcode: Write shellcode that spawns a root shell on a vulnerable Li
 Linux Bootkit: Develop a bootkit for Linux that hijacks the bootloader to persist malware across system reboots. Study how to manipulate the Linux boot process.
 Linux Virus: Write a virus that can infect executable files on a Linux system. This project will introduce you to file format understanding and how malware spreads in Linux.
 Linux Stealth Malware: Implement a basic piece of malware in assembly that hides itself from system tools like ps, netstat, and file system commands by directly interacting with kernel structures.
-6. Web3 Technologies (Linux-Based)
+
+       OKAY
+7. Web3 Technologies (Linux-Based)
 Projects:
 Smart Contract Attack Simulation on Linux: Set up a local Ethereum testnet on Linux and develop smart contract attacks, such as reentrancy attacks or overflows, using Solidity.
 Cryptojacking Malware for Linux: Write a Linux-based malware in Python or C that hijacks system resources to mine cryptocurrency, focusing on evasion techniques to prevent detection.
